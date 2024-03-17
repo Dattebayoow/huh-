@@ -211,10 +211,10 @@ ul{
 @keyframes  change-background {
     0%,
     100%{
-        background-image: url(/IMAGES/tec1.jpg);
+        background-image: url(../tec1.jpg);
     }
     50%{
-        background-image: url(/IMAGES/tac2.jpg);
+        background-image: url(../tac2.jpg);
     }
 }
 /* animation  */
@@ -1471,7 +1471,7 @@ padding-left: 85px;
 /* end pricing */
 /* start state */
 .stats{
-    background-image: url(/IMAGES/stats.jpg);
+    background-image: url(/stats.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -1580,7 +1580,7 @@ padding-left: 85px;
 }
 .discount .image{
     position: relative;
-    background-image: url(/IMAGES/tac2.jpg);
+    background-image: url(../tac2.jpg);
     background-size: cover;
     color: white;
     flex-basis: 50%;
